@@ -1,0 +1,37 @@
+2023-04-02 21:10:04.710710 - Initialized conversion of CBT041
+2023-04-02 21:10:04.991794 - Received CBT.V504.FILE041.PDS from FILE041.XMI 
+2023-04-02 21:10:04.994554 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/$$$#DATE
+2023-04-02 21:10:04.995911 - Found $ABSTRAC.txt (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/$ABSTRAC
+2023-04-02 21:10:04.997033 - Found $ASM1.jcl (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/$ASM1
+2023-04-02 21:10:04.998455 - Found $ASM4.jcl (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/$ASM4
+2023-04-02 21:10:04.999887 - Found $BACK1.jcl (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/$BACK1
+2023-04-02 21:10:05.001172 - Found $BACK4.jcl (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/$BACK4
+2023-04-02 21:10:05.002572 - Found $COMP.jcl (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/$COMP
+2023-04-02 21:10:05.003913 - Found $COPY.jcl (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/$COPY
+2023-04-02 21:10:05.005102 - Found $DESC.txt (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/$DESC
+2023-04-02 21:10:05.006050 - Found $DISCLMR.txt (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/$DISCLMR
+2023-04-02 21:10:05.006977 - Found $PREP1.jcl (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/$PREP1
+2023-04-02 21:10:05.008312 - Found $PREP4.jcl (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/$PREP4
+2023-04-02 21:10:05.009317 - Found $PRINT.jcl (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/$PRINT
+2023-04-02 21:10:05.009328 - Found $TEST1.bin containing application/octet-stream, moved to PDS/$TEST1
+2023-04-02 21:10:05.011168 - Found $TEST4.jcl (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/$TEST4
+2023-04-02 21:10:05.012130 - Found $TURN1.jcl (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/$TURN1
+2023-04-02 21:10:05.013442 - Found $TURN4.jcl (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/$TURN4
+2023-04-02 21:10:05.014564 - Found $XFER.jcl (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/$XFER
+2023-04-02 21:10:05.015903 - Found @FILE041.txt (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/@FILE041
+2023-04-02 21:10:05.017040 - Found DFAULT.txt (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/DFAULT
+2023-04-02 21:10:05.018071 - Found END.txt (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/END
+2023-04-02 21:10:05.019107 - Found EXIT1A.txt (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/EXIT1A
+2023-04-02 21:10:05.020231 - Found EXIT1B.txt (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/EXIT1B
+2023-04-02 21:10:05.021481 - Found EXIT1MIT.txt (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/EXIT1MIT
+2023-04-02 21:10:05.022420 - Found EXIT1REG.txt (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/EXIT1REG
+2023-04-02 21:10:05.023422 - Found EXIT1TAB.txt (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/EXIT1TAB
+2023-04-02 21:10:05.024610 - Found EXIT15.txt (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/EXIT15
+2023-04-02 21:10:05.025641 - Found EXIT250.txt (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/EXIT250
+2023-04-02 21:10:05.026606 - Found EXIT4MIT.txt (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/EXIT4MIT
+2023-04-02 21:10:05.027645 - Found EXIT5.txt (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/EXIT5
+2023-04-02 21:10:05.028888 - Found GLOBAL.txt (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/GLOBAL
+2023-04-02 21:10:05.029879 - Found SH88.txt (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/SH88
+2023-04-02 21:10:05.030822 - Found STD.txt (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/STD
+2023-04-02 21:10:05.031778 - Found TESTQ.jcl (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/TESTQ
+2023-04-02 21:10:05.032931 - Found ZZ03821.txt (text/plain) in CBT.V504.FILE041.PDS, moved to PDS/ZZ03821
